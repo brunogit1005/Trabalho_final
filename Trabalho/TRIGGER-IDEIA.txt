@@ -1,0 +1,3 @@
+inseriu na compra:
+    se numero_cartao for vazio, ele irá gerar um número randomico.
+    
